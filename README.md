@@ -24,7 +24,7 @@ This project is a simple web page that allows users to search for books using th
 
 ## Screenshots
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/AJ2596/Day-20-Task2/blob/main/Screenshot.png?raw=true)
 
 ## Credits
 
