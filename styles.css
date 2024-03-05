@@ -1,0 +1,52 @@
+body {
+  background-image: url(pexels-engin-akyurt-2946974.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+  background-color: rgb(206, 126, 28);
+  border-radius: 15px;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  width: 70%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #fbfcfd;
+  color: #000000;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+button:hover {
+  background-color: rgb(154, 130, 102);
+}
+
+#results {
+  margin-top: 20px;
+  text-align: left;
+  background-color: rgb(138, 117, 12);
+}
+
+.book {
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  padding: 10px;
+}
